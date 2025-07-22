@@ -1,4 +1,4 @@
-- 👋 Hello! My name is Andres Paldines. Profiles @apaladines-techconsulting (current account) and @AD-Paladins (lost access :/)
+- 👋 Hello! My name is Andres Paldines. Profiles @apaladines-techconsulting (current account) and @AD-Paladins
 - 👀 I’m interested in Swift(UIKit), SwiftUI, Objective-c, Flutter and React-Native development.
 - 🌱 I’m currently mastering SwiftUI. 
 - 💞️ I’m love with Swift, SwiftUI, UIKit and new challenges.
